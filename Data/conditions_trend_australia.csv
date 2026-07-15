@@ -1,0 +1,169 @@
+condition,year,estimate_000,state,population_000,prevalence_percent
+CVD,2001,195.5,Victoria,4712.2,4.15
+CVD,2005,172.5,Victoria,4914.2,3.51
+CVD,2008,293.2,Victoria,5164.7,5.68
+CVD,2012,228.6,Victoria,5560,4.11
+CVD,2015,310.3,Victoria,5797.2,5.35
+CVD,2018,320.2,Victoria,6280.6,5.1
+CVD,2022,313.8,Victoria,6545.5,4.79
+Diabetes,2001,164.7,Victoria,4712.2,3.5
+Diabetes,2005,186.8,Victoria,4914.2,3.8
+Diabetes,2008,208.9,Victoria,5164.7,4.04
+Diabetes,2012,228.9,Victoria,5560,4.12
+Diabetes,2015,300.4,Victoria,5797.2,5.18
+Diabetes,2018,311,Victoria,6280.6,4.95
+Diabetes,2022,330.5,Victoria,6545.5,5.05
+High blood pressure,2001,468.7,Victoria,4712.2,9.95
+High blood pressure,2005,529.1,Victoria,4914.2,10.77
+High blood pressure,2008,536.9,Victoria,5164.7,10.4
+High blood pressure,2012,549.8,Victoria,5560,9.89
+High blood pressure,2015,658,Victoria,5797.2,11.35
+High blood pressure,2018,723,Victoria,6280.6,11.51
+High blood pressure,2022,785.5,Victoria,6545.5,12
+CVD,2001,157.5,Queensland,3525.2,4.47
+CVD,2005,154.5,Queensland,3798.5,4.07
+CVD,2008,237,Queensland,4101.3,5.78
+CVD,2012,236.1,Queensland,4458.9,5.3
+CVD,2015,255.1,Queensland,4599.5,5.55
+CVD,2018,226,Queensland,4810.8,4.7
+CVD,2022,337.1,Queensland,5190,6.5
+Diabetes,2001,114.1,Queensland,3525.2,3.24
+Diabetes,2005,146.1,Queensland,3798.5,3.85
+Diabetes,2008,178,Queensland,4101.3,4.34
+Diabetes,2012,185.1,Queensland,4458.9,4.15
+Diabetes,2015,212.2,Queensland,4599.5,4.61
+Diabetes,2018,217.3,Queensland,4810.8,4.52
+Diabetes,2022,265.7,Queensland,5190,5.12
+High blood pressure,2001,350.2,Queensland,3525.2,9.93
+High blood pressure,2005,379.1,Queensland,3798.5,9.98
+High blood pressure,2008,377.7,Queensland,4101.3,9.21
+High blood pressure,2012,435.5,Queensland,4458.9,9.77
+High blood pressure,2015,471,Queensland,4599.5,10.24
+High blood pressure,2018,483.7,Queensland,4810.8,10.05
+High blood pressure,2022,577.9,Queensland,5190,11.13
+CVD,2001,71.3,South Australia,1473.7,4.84
+CVD,2005,64.4,South Australia,1495,4.31
+CVD,2008,95.6,South Australia,1548,6.18
+CVD,2012,83.8,South Australia,1612.9,5.2
+CVD,2015,91.3,South Australia,1644.7,5.55
+CVD,2018,92.2,South Australia,1680.3,5.49
+CVD,2022,88.8,South Australia,1778.2,4.99
+Diabetes,2001,49.6,South Australia,1473.7,3.37
+Diabetes,2005,64.7,South Australia,1495,4.33
+Diabetes,2008,79.8,South Australia,1548,5.16
+Diabetes,2012,81.8,South Australia,1612.9,5.07
+Diabetes,2015,92,South Australia,1644.7,5.59
+Diabetes,2018,101.1,South Australia,1680.3,6.02
+Diabetes,2022,128.4,South Australia,1778.2,7.22
+High blood pressure,2001,161.1,South Australia,1473.7,10.93
+High blood pressure,2005,175.1,South Australia,1495,11.71
+High blood pressure,2008,176.5,South Australia,1548,11.4
+High blood pressure,2012,181.3,South Australia,1612.9,11.24
+High blood pressure,2015,206.5,South Australia,1644.7,12.56
+High blood pressure,2018,188.9,South Australia,1680.3,11.24
+High blood pressure,2022,243.1,South Australia,1778.2,13.67
+CVD,2001,253.9,New South Wales,6439.7,3.94
+CVD,2005,257.4,New South Wales,6625.5,3.88
+CVD,2008,327.5,New South Wales,6802.6,4.81
+CVD,2012,353.8,New South Wales,7171.4,4.93
+CVD,2015,368.7,New South Wales,7414.1,4.97
+CVD,2018,353.1,New South Wales,7762.4,4.55
+CVD,2022,389.6,New South Wales,8045.5,4.84
+Diabetes,2001,214.9,New South Wales,6439.7,3.34
+Diabetes,2005,261.4,New South Wales,6625.5,3.95
+Diabetes,2008,307.8,New South Wales,6802.6,4.52
+Diabetes,2012,346.7,New South Wales,7171.4,4.83
+Diabetes,2015,412,New South Wales,7414.1,5.56
+Diabetes,2018,390.7,New South Wales,7762.4,5.03
+Diabetes,2022,410.2,New South Wales,8045.5,5.1
+High blood pressure,2001,664.1,New South Wales,6439.7,10.31
+High blood pressure,2005,698.4,New South Wales,6625.5,10.54
+High blood pressure,2008,599.4,New South Wales,6802.6,8.81
+High blood pressure,2012,777.3,New South Wales,7171.4,10.84
+High blood pressure,2015,888,New South Wales,7414.1,11.98
+High blood pressure,2018,826.9,New South Wales,7762.4,10.65
+High blood pressure,2022,888.4,New South Wales,8045.5,11.04
+CVD,2001,64,Western Australia,1837.1,3.48
+CVD,2005,66,Western Australia,1911.5,3.45
+CVD,2008,91.9,Western Australia,2045.7,4.49
+CVD,2012,89,Western Australia,2282.6,3.9
+CVD,2015,102.7,Western Australia,2455.3,4.18
+CVD,2018,112.4,Western Australia,2482.2,4.53
+CVD,2022,133.3,Western Australia,2690.6,4.95
+Diabetes,2001,50.8,Western Australia,1837.1,2.77
+Diabetes,2005,64.2,Western Australia,1911.5,3.36
+Diabetes,2008,77.7,Western Australia,2045.7,3.8
+Diabetes,2012,98.9,Western Australia,2282.6,4.33
+Diabetes,2015,117.8,Western Australia,2455.3,4.8
+Diabetes,2018,103.7,Western Australia,2482.2,4.18
+Diabetes,2022,140.4,Western Australia,2690.6,5.22
+High blood pressure,2001,169,Western Australia,1837.1,9.2
+High blood pressure,2005,214.3,Western Australia,1911.5,11.21
+High blood pressure,2008,156.2,Western Australia,2045.7,7.64
+High blood pressure,2012,199.6,Western Australia,2282.6,8.74
+High blood pressure,2015,234.1,Western Australia,2455.3,9.53
+High blood pressure,2018,211.7,Western Australia,2482.2,8.53
+High blood pressure,2022,303.9,Western Australia,2690.6,11.29
+CVD,2001,25.9,Tasmania,462.5,5.6
+CVD,2005,25.9,Tasmania,473.9,5.47
+CVD,2008,37.5,Tasmania,484.8,7.74
+CVD,2012,33.5,Tasmania,499.5,6.71
+CVD,2015,38.6,Tasmania,503.2,7.67
+CVD,2018,31,Tasmania,512.6,6.05
+CVD,2022,45.4,Tasmania,559.1,8.12
+Diabetes,2001,15.2,Tasmania,462.5,3.29
+Diabetes,2005,17.2,Tasmania,473.9,3.63
+Diabetes,2008,19.3,Tasmania,484.8,3.98
+Diabetes,2012,25.6,Tasmania,499.5,5.13
+Diabetes,2015,26.6,Tasmania,503.2,5.29
+Diabetes,2018,28.4,Tasmania,512.6,5.54
+Diabetes,2022,34.4,Tasmania,559.1,6.15
+High blood pressure,2001,58.4,Tasmania,462.5,12.63
+High blood pressure,2005,62.1,Tasmania,473.9,13.1
+High blood pressure,2008,64.2,Tasmania,484.8,13.24
+High blood pressure,2012,67.7,Tasmania,499.5,13.55
+High blood pressure,2015,82.5,Tasmania,503.2,16.4
+High blood pressure,2018,70.9,Tasmania,512.6,13.83
+High blood pressure,2022,90.4,Tasmania,559.1,16.17
+CVD,2001,4.8,Northern Territory,154.9,3.1
+CVD,2005,2.3,Northern Territory,146.3,1.57
+CVD,2008,3.2,Northern Territory,162.9,1.96
+CVD,2012,5.3,Northern Territory,166.5,3.18
+CVD,2015,4.8,Northern Territory,175.2,2.74
+CVD,2018,3.6,Northern Territory,176.9,2.04
+CVD,2022,8,Northern Territory,181.5,4.41
+Diabetes,2001,5.9,Northern Territory,154.9,3.81
+Diabetes,2005,5,Northern Territory,146.3,3.42
+Diabetes,2008,17.4,Northern Territory,162.9,10.68
+Diabetes,2012,8,Northern Territory,166.5,4.8
+Diabetes,2015,7.6,Northern Territory,175.2,4.34
+Diabetes,2018,9.8,Northern Territory,176.9,5.54
+Diabetes,2022,10.3,Northern Territory,181.5,5.67
+High blood pressure,2001,9.8,Northern Territory,154.9,6.33
+High blood pressure,2005,10.1,Northern Territory,146.3,6.9
+High blood pressure,2008,6.9,Northern Territory,162.9,4.24
+High blood pressure,2012,11.2,Northern Territory,166.5,6.73
+High blood pressure,2015,11.5,Northern Territory,175.2,6.56
+High blood pressure,2018,10.8,Northern Territory,176.9,6.11
+High blood pressure,2022,18.6,Northern Territory,181.5,10.25
+Diabetes,2001,624.5,National,18916.3,3.3
+Diabetes,2005,781.2428571428571,National,19681.5,3.97
+Diabetes,2008,898.8,National,20643.1,4.35
+Diabetes,2012,986.9,National,22105.3,4.46
+Diabetes,2015,1178.4,National,22969,5.13
+Diabetes,2018,1182.6,National,24105.3,4.91
+Diabetes,2022,1348.4,National,25428.9,5.3
+CVD,2001,782.2,National,18916.3,4.14
+CVD,2005,754.7,National,19681.5,3.83
+CVD,2008,1100.1,National,20643.1,5.33
+CVD,2012,1049.8,National,22105.3,4.75
+CVD,2015,1196.6,National,22969,5.21
+CVD,2018,1156.5,National,24105.3,4.8
+CVD,2022,1323.4,National,25428.9,5.2
+High blood pressure,2001,1909.1,National,18916.3,10.09
+High blood pressure,2005,2100.7,National,19681.5,10.67
+High blood pressure,2008,1945.8,National,20643.1,9.43
+High blood pressure,2012,2262,National,22105.3,10.23
+High blood pressure,2015,2593.9,National,22969,11.29
+High blood pressure,2018,2551.8,National,24105.3,10.59
+High blood pressure,2022,2959.9,National,25428.9,11.64

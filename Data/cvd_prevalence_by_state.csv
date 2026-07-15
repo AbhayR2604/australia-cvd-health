@@ -1,0 +1,10 @@
+state_code,estimate_000,total_population_000,cvd_prevalence_percent,state,latitude,longitude
+NSW,389.6,8045.5,4.84,New South Wales,-33.87,151.21
+VIC,313.8,6545.5,4.79,Victoria,-37.81,144.96
+QLD,337.1,5190,6.5,Queensland,-27.47,153.03
+SA,88.8,1778.2,4.99,South Australia,-34.93,138.6
+WA,133.3,2690.6,4.95,Western Australia,-31.95,115.86
+TAS,45.4,559.1,8.12,Tasmania,-42.88,147.33
+NT,8,181.5,4.41,Northern Territory,-12.46,130.85
+ACT,15.3,446.3,3.43,Australian Capital Territory,-35.28,149.13
+AUS,1323.4,25428.9,5.2,Australia,-25.2744,133.7751
